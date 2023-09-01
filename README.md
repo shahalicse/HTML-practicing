@@ -1,1 +1,1 @@
-# HTML-practicing code
+# HTML-practicing code and demo project
